@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,32): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,32): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,38): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,44): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,50): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,50): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,56): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,56): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,62): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,62): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,68): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,68): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,74): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(66,74): warning C4309: 'initializing': truncation of constant value
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(231,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(240,31): warning C4002: too many arguments for function-like macro invocation 'r_lua_tostring'
+C:\Users\leona\Downloads\Axon\V3rm\Bridge.h(280,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\leona\Downloads\Axon\V3rm\Main.cpp(42,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\leona\Downloads\Axon\V3rm\Main.cpp(43,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\leona\Downloads\Axon\V3rm\Main.cpp(181,57): warning C4244: 'argument': conversion from 'DWORD' to 'BYTE', possible loss of data
+C:\Users\leona\Downloads\Axon\V3rm\Main.cpp(140): warning C4715: 'input': not all control paths return a value
+  V3rm.vcxproj -> C:\Users\leona\Downloads\Axon\Debug\Axon.dll
